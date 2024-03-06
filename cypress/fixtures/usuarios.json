@@ -1,0 +1,53 @@
+
+[
+    {
+      "first_name": "Peter Jason Quill",
+      "last_name": "senhor_das_estrelas",
+      "email": "peter.quill@alura.com.br",
+      "password1": "13bridonA@",
+      "password2": "13bridonA@"
+
+
+    },
+    {
+      "first_name": "Gamora Zen Whoberi Ben Titan",
+      "last_name": "gamora",
+      "email": "gamora@alura.com.br",
+      "password1": "34nwhoberi1@N",
+      "password2": "34nwhoberi1@N"
+
+    },
+    {
+      "first_name": "Rocket Raccoon",
+      "last_name": "rocket",
+      "email": "rocket.raccoon@alura.com.br",
+      "password1": "ma23miferoO@B",
+      "password2": "ma23miferoO@B"
+
+    },
+    {
+      "first_name": "Groot",
+      "last_name": "groot",
+      "email": "groot@alura.com.br",
+      "password1": "99lossusfloralaD@",
+      "password2": "99lossusfloralaD@"
+
+    }
+    ,
+    {
+      "first_name": "Drax",
+      "last_name": "drax",
+      "email": "drax@alura.com.br",
+      "password1": "78manoreforcadoPv@",
+      "password2": "78manoreforcadoPv@"
+
+    },
+    {
+      "first_name": "Yondu Udonta",
+      "last_name": "youndu",
+      "email": "youndu@alura.com.br",
+      "password1": "09Tauriano@lm",
+      "password2": "09Tauriano@lm"
+
+    }
+  ]
